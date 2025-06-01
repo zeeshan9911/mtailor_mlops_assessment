@@ -1,0 +1,4 @@
+name = "image-classifier"
+runtime = "docker"
+type = "sync"
+entrypoint = "inference.py"
